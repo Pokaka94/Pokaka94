@@ -20,6 +20,7 @@
 통합 개발 환경(IDE): Visual Studio Code, Eclipse <br>
 협업 도구: Figma, Notion, Allo, Erd, GitHub 등<br>
 
+<div style="align=center";>
 <h2> 💪 Skills </h2>
 Platforms & Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -34,6 +35,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+</div>
 
 <h2>🚀 My Projects</h2>
 <ul>
