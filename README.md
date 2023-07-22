@@ -8,13 +8,13 @@
 
 기술(Skills):
 
-프로그래밍 언어: Java, JavaScript
-웹 개발: HTML, CSS, JavaScript, Spring Framework
+프로그래밍 언어: Java, JavaScript <br>
+웹 개발: HTML, CSS, JavaScript, Spring Framework <br>
 데이터베이스 관리: MySQL
-
-도구(Tools):
-통합 개발 환경(IDE): Visual Studio Code, Eclipse 
-협업 도구: Figma, Notion, Allo, Erd, GitHub 등.
+<br>
+도구(Tools):<br>
+통합 개발 환경(IDE): Visual Studio Code, Eclipse <br>
+협업 도구: Figma, Notion, Allo, Erd, GitHub 등.<br>
 
 Skills
 Platforms & Languages
