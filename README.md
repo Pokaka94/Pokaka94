@@ -14,7 +14,7 @@
 <br><br><br>
 도구(Tools):<br>
 통합 개발 환경(IDE): Visual Studio Code, Eclipse <br>
-협업 도구: Figma, Notion, Allo, Erd, GitHub 등..<br>
+협업 도구: Figma, Notion, Allo, Erd, GitHub 등<br>
 
 Skills
 Platforms & Languages
