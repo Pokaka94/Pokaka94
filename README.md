@@ -1,6 +1,5 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Dev_Seungmin&fontSize=90)
-</div>
 
 🧑‍💻 It's Me!
 - 🔭 I’m currently working on <멀티캠퍼스> 풀스택 개발 부트캠프 수료
