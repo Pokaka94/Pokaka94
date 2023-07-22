@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Junior%20Developer&fontAlignY=25&fontSize=40&height=200&desc=Dev_%20Seumgmin&descAlignY=45">
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Dev_%20Seungmin&fontAlignY=25&fontSize=40&height=200&descAlignY=45">
+
 
 🧑‍💻 It's Me!
 - 🔭 I’m currently working on <멀티캠퍼스> 풀스택 개발 부트캠프 수료
