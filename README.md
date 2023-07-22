@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Dev_%20Seungmin&fontAlignY=25&fontSize=40&height=200&descAlignY=45">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Developer&fontAlignY=25&fontSize=40&desc=SeungminYoon&height=200&descAlignY=45">
 
 
 🧑‍💻 It's Me!
