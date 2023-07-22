@@ -31,15 +31,14 @@ Platforms & Languages
 
 <h2>🛠 Tools </h2>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 
 <h2>🚀 My Projects</h2>
 <ul>
   <li>[PetLise]: ["PetLise"는 동물을 사랑하는 사람들을 위한 사이트입니다. 열정 있는 5명의 개발자가 모여 반려 동물과 함께 행복하고 건 
   강한 LifeStyle를 누리기 위해 Food, Comunity, Shop 등 여러가지 서비스를 제공할 예정입니다.]</li>
  <br> 
- <li>[Miniproject:MovieBlog]: [서로 공유할 수 있는 ‘나만의 영화 다이어리’ 제작 사이트 ]</li>
-  
+ <li>[Miniproject:MovieBlog]: [서로 공유할 수 있는 ‘나만의 영화 다이어리’ 제작 사이트 ]</li> 
 </ul>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
