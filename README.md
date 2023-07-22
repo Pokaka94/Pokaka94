@@ -8,4 +8,4 @@
 - 😄 Pronouns: ...
 
 
-<img src="https://img.shields.io/badge/ Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
