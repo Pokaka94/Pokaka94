@@ -22,7 +22,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAV&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-#1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 
 Tools
