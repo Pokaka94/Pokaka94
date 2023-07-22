@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 
@@ -40,8 +39,8 @@
 
 <h2>🚀 My Projects</h2>
 <ul>
-  <li>[PetLise]: ["PetLise"는 동물을 사랑하는 사람들을 위한 사이트입니다. 열정 있는 5명의 개발자가 모여 반려 동물과 함께 행복하고 건 
-  강한 LifeStyle를 누리기 위해 Food, Comunity, Shop 등 여러가지 서비스를 제공할 예정입니다.]</li>
+  <li>[PetLise]: "PetLise"는 동물을 사랑하는 사람들을 위한 사이트입니다. 열정 있는 5명의 개발자가 모여 반려 동물과 함께 행복하고 건 
+  강한 LifeStyle를 누리기 위해 Food, Comunity, Shop 등 여러가지 서비스를 제공할 예정입니다.</li>
  <br> 
- <li>[Miniproject:MovieBlog]: [서로 공유할 수 있는 ‘나만의 영화 다이어리’ 제작 사이트 ]</li> 
+ <li>[Miniproject:MovieBlog]: 서로 공유할 수 있는 ‘나만의 영화 다이어리’ 제작 사이트 </li> 
 </ul>
