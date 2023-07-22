@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Typing&color=gradient&text=Developer&fontAlignY=25&fontSize=40&height=200&desc=SeungMin%20Yoon&descAlignY=45">
+<img src="https://capsule-render.vercel.app/api?type=Shiny&color=gradient&text=Developer&fontAlignY=25&fontSize=40&height=200&desc=SeungMin%20Yoon&descAlignY=45">
 </div>
 
 🧑‍💻 It's Me!
