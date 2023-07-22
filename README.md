@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on <멀티캠퍼스> 풀스택 개발 부트캠프
-- 😄 Pronouns: 
+- 😄 Pronouns: 사람들의 일상 생활 속 '행복'을 만드는 개발자가 되고싶은 94년생 Dev_Seungmin 입니다.
 
 
 기술(Skills):
