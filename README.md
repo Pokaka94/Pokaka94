@@ -1,6 +1,6 @@
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Developer&fontSize=40&desc=Seungmin&Yoon&height=200">
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Typing&color=gradient&text=Developer&fontAlignY=25&fontSize=40&height=200&desc=SeungMin%20Yoon&descAlignY=45">
+</div>
 
 🧑‍💻 It's Me!
 - 🔭 I’m currently working on <멀티캠퍼스> 풀스택 개발 부트캠프 수료
