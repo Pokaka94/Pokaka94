@@ -1,12 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Dev_SeungMin&fontSize=100)
 
-
+🧑‍💻 It's Me!
 - 🔭 I’m currently working on <멀티캠퍼스> 풀스택 개발 부트캠프
 - 😄 Pronouns: 사람들의 일상 생활 속 '행복'을 만드는 개발자가 되고싶은 94년생 Dev_Seungmin 입니다.
+- 특징 : ♥🐶 ENFP->INFP 🇰🇷
 
 
-기술(Skills):
+기술(Ski
+lls):
 
 프로그래밍 언어: Java, JavaScript <br>
 웹 개발: HTML, CSS, JavaScript, Spring Framework <br>
