@@ -1,12 +1,10 @@
 
-(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Seungmin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Seungmin&fontSize=90)
 
 
 <h2>🧑‍💻 It's Me!</h2>
  <멀티캠퍼스> 풀스택 개발 부트캠프 수료<br>
  <br>사람들의 일상 생활 속 '행복'을 만드는 개발자가 되고싶은 94년생 Dev_Seungmin 입니다.<br>
- <br>특징 : 1. ♥🐶&nbsp; 2. ENFP->INFP &nbsp;3. 소수에 강함 <br>
-         <br>  4. 사소한 퀄리티 집착🎭&nbsp; 5. 평화로운 분위기 메이커 
 
 
 <h2> 💪 기술(Skills) </h2>
