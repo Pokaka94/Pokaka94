@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Seungmin&fontSize=90)
+(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Seungmin&fontSize=90)
 
 
 <h2>🧑‍💻 It's Me!</h2>
